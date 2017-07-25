@@ -1,0 +1,29 @@
+.fcmb-orange {
+    color: #feb293;
+}
+.fcmb-puple {
+    background-color: #65408e;
+}
+.wema-primary {
+    background-color: #9c1a87;
+}
+table.highlight > tbody > tr:hover {
+    background-color: #9c1a87;
+}
+nav {
+    background-color: #9c1a87;
+}
+.brand-logo {
+}
+table.bordered>thead>tr, table.bordered>tbody>tr {
+    border-bottom: 1px solid #9c1a87;
+}
+.balance {
+    color: #9c1a87;
+}
+.pagination li.active {
+    background-color: #9c1a87;
+}
+.btn {
+    background-color: #9c1a87;
+}
